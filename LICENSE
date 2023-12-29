@@ -5,7 +5,7 @@ The Cifar-100 dataset is used here for demonstration purposes, and is cited
 below.
 
 Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
-Source: https://www.cs.toronto.edu/~kriz/cifar.html
+https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
 
 The following is in respect of the software portion of the material presented
 here.
