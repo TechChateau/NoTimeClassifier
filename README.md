@@ -15,6 +15,6 @@ Keep in mind that the Model Demo is proprietary and will not work with all data 
 
 Good luck.
 
-### Refernces
+### References
 Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
-(University of Toronto)
+(University of Toronto) https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
