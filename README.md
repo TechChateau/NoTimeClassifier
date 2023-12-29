@@ -4,9 +4,9 @@
 
 This project is created to aid in quick and complex design of Deep Neural Networks, serving as an academic tutorial.
 
-![NTClassifierResults](https://github.com/TechChateau/NoTimeClassifier/assets/154630035/4cb53b5b-c1b6-43b6-b04c-b7c3825f07fc)
-
 As AI architectures in any coding language could potentially look very intimidating to infer and analyze, here we try to both increase intelligibility, and offer a headstart template for a specific use case. This part focuses on a classification problem using the Cifar-100 coarse dataset, to showcase a diverse deep convolutional architecture, made intelligible and easy to modify by the use of a Preset Layer Designer function, that helps speed up understanding and architecting your model. Even if you do not know how to configure your parameters, an autopilot measure of collective default values is here to take care of the initial headache.
+
+![NTClassifierResults](https://github.com/TechChateau/NoTimeClassifier/assets/154630035/4cb53b5b-c1b6-43b6-b04c-b7c3825f07fc)
 
 First make it work, then begin understanding the "how".
 
