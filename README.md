@@ -1,4 +1,4 @@
-# NoTimeClassifier (No Time Design Series: Classification)
+# NoTimeClassifier - No Time Design: Classification
 
 ### No time to learn AI design? Start from the middle!
 
