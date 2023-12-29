@@ -17,4 +17,4 @@ Good luck.
 
 ### References
 Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
-(University of Toronto) https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
+https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
